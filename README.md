@@ -40,7 +40,6 @@ YouTube_video_analyzer/
 │
 ├── ui.py
 ├── youtube_analyzer.py
-├── requirements.txt
 ├── README.md
 ├── .gitignore
 └── .env
